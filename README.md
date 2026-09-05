@@ -69,8 +69,3 @@ before running.
 python stats.py   # corpus statistics
 python ner.py     # fine-tune and evaluate
 ```
-
-## Context
-
-Coursework for Text Mining, LIACS, Leiden University, 2025. Joint work with Luis Chial Sanchez
-throughout; the work split for each assignment is stated in the corresponding report.
