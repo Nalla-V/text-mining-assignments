@@ -69,3 +69,8 @@ before running.
 python stats.py   # corpus statistics
 python ner.py     # fine-tune and evaluate
 ```
+
+## Contributor
+
+- Nallathambi Vethiappan
+- Luis Chial Sanchez
